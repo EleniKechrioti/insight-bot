@@ -1,14 +1,13 @@
 # Entersoft Challenge
 
 
-https://github.com/user-attachments/assets/82174b46-4ef5-4628-bace-453fac3242cb
-
-
-
-
 ## Overview
 
 This project is a chatbot developed for the Entersoft Challenge during [Makeathon 2024](https://uniai.gr/makeathon-2024/). It enables company managers to interact with an SQL database (ERP system) using natural language queries. The chatbot interprets user inputs, converts them into SQL queries, retrieves the relevant data, and responds in a human-readable format.
+
+
+https://github.com/user-attachments/assets/82174b46-4ef5-4628-bace-453fac3242cb
+
 
 ## Features
 
